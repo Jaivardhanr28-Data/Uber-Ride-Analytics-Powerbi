@@ -41,7 +41,7 @@ A ride-hailing operator wants one place to answer:
 **Interactive features**
 - 🚗 **Vehicle slicer synced across all pages.** The vehicle picture, name, KPIs, rings and charts update together.
 - 🎯 **Page-specific KPI row** on every page (6 KPIs tailored to that page's topic).
-- 🧭 **Page navigation** from the Home buttons and the left icon bar.
+- 🧭 **Page navigation** from the Home page buttons.
 - 📅 **Month ↔ Quarter drill** on the time-trend charts.
 - 🔒 **Comparison visuals stay unfiltered** (via Edit Interactions), so all 7 vehicles remain visible while the KPIs follow the selection.
 
